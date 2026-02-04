@@ -6,6 +6,12 @@
 
 ---
 
+## Interactive Dashboard
+An interactive, **view-only** version of the Power BI dashboard is available here:  
+🔗 (https://bit.ly/4nQC2oY)
+
+---
+
 ## Project Overview
 This project evaluates the business performance of **Jubilee Superstores** through two integrated components:
 
